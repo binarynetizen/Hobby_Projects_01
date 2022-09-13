@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+button {
+    background: rgb(80, 12, 12);
+    color: wheat;
+    padding: 10px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+    border: none;
+}
+#save-btn {
+    background: green;
+}
